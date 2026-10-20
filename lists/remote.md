@@ -1,11 +1,26 @@
-# 26 fully remote (us) roles
+# 36 fully remote (us) roles
 
-**26 roles at 19 companies.** Checked 15 Oct 2026. Fully remote US clinical research and regulatory roles.
+**36 roles at 22 companies.** Checked 20 Oct 2026. Fully remote US clinical research and regulatory roles.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **ICON plc** | [Clinical Trial Coordinator](https://trylitos.com/job/0c9c133d-e1b2-49d0-af9e-0ce3b11ae912?utm_source=github&utm_campaign=west-coast-clinical-remote) | United States of America |  | Oct 16 |  |
+| **Cardinal Health** | [Clinical Operations and Analytics Consultant](https://trylitos.com/job/4aec69ed-87e6-4e15-9986-7cd593f05480?utm_source=github&utm_campaign=west-coast-clinical-remote) | US-Nationwide-FIELD |  | Oct 16 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **ICON plc** | [Clinical Research Associate II](https://trylitos.com/job/8a11d2de-bd5f-460a-832e-39d420de1442?utm_source=github&utm_campaign=west-coast-clinical-remote) | Orlando, FL; Florida |  | Oct 16 |  |
+| **osu** | [Clinical Research Coordinator - Comprehensive Cancer Center](https://trylitos.com/job/b6cb6a35-a5e0-463e-8524-92cb85538a10?utm_source=github&utm_campaign=west-coast-clinical-remote) | Remote Location |  | Oct 16 |  |
+| **ICON plc** | [Clinical Trial Liaison](https://trylitos.com/job/f97755e6-8a87-4db3-b4b3-16baf8ebd649?utm_source=github&utm_campaign=west-coast-clinical-remote) | California; Wyoming; Arizona; Texas; Utah; US |  | Oct 16 |  |
+| **Regeneron** | [Medical Writer - Global Clinical Development](https://trylitos.com/job/706fc456-481d-48af-bda4-7a7c6630f6a4?utm_source=github&utm_campaign=west-coast-clinical-remote) | Remote - United States |  | Oct 15 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **ICON plc** | [Clinical Trial Liaison](https://trylitos.com/job/7cdf292b-450e-4959-8df7-81a06482145c?utm_source=github&utm_campaign=west-coast-clinical-remote) | US, Blue Bell (ICON); Rhode Island; North Car |  | Oct 15 |  |
+| **ICON plc** | [Clinical Research Associate](https://trylitos.com/job/c1a315e8-370c-4a70-9b20-d1638fcba12a?utm_source=github&utm_campaign=west-coast-clinical-remote) | Nevada |  | Oct 15 |  |
+| **rrhs** | [Clinical Trials Medical Writer](https://trylitos.com/job/e6373773-ad7c-4bcc-a5e1-cda7ede1a8b9?utm_source=github&utm_campaign=west-coast-clinical-remote) | ACM - Remote |  | Oct 15 |  |
+| **ICON plc** | [Clinical Research Associate (CRA)](https://trylitos.com/job/06ec0ab9-f89e-4c58-af4e-3c671becb3a3?utm_source=github&utm_campaign=west-coast-clinical-remote) | US, Blue Bell (ICON) |  | Oct 14 |  |
+| **Centene - we appreciate your interest** | [Contracts & Regulatory Intern (Healthcare Law Student Summer 2027)](https://trylitos.com/job/241dea94-7aa7-4726-97e1-f594c654141d?utm_source=github&utm_campaign=west-coast-clinical-remote) | Remote-MO |  | Oct 14 |  |
+| **ICON plc** | [Clinical Research Associate](https://trylitos.com/job/4d29577f-7fde-4688-9a5f-e83de9a1e7c8?utm_source=github&utm_campaign=west-coast-clinical-remote) | US, Blue Bell (ICON); Florida |  | Oct 14 |  |
+| **ICON plc** | [Clinical Research Associate](https://trylitos.com/job/75d947aa-dd96-4a8e-ab48-609e134cef02?utm_source=github&utm_campaign=west-coast-clinical-remote) | Texas; US, San Antonio, TX, ICR |  | Oct 14 |  |
+| **ICON plc** | [Clinical Research Associate](https://trylitos.com/job/9ceaa571-3446-4c88-a7c7-a1abd9a0a6b2?utm_source=github&utm_campaign=west-coast-clinical-remote) | Florida |  | Oct 14 |  |
+| **GE HealthCare** | [Clinical Operations Support Specialist - Salt Lake City/On-Site](https://trylitos.com/job/20b7ced7-ecb0-485b-ace9-9d5f082afb69?utm_source=github&utm_campaign=west-coast-clinical-remote) | Remote |  | Oct 13 |  |
 | **RYZE** | [Regulatory Specialist](https://trylitos.com/job/c3c02a9a-aca6-4db1-8381-246dfac1b27f?utm_source=github&utm_campaign=west-coast-clinical-remote) | Remote - USA |  | Oct 15 |  |
 | **Premier Research** | [In-House Clinical Research Associate II, Sponsor-Dedicated (Contract)](https://trylitos.com/job/7dafe91b-5295-45e5-a76f-464d4f5a5b33?utm_source=github&utm_campaign=west-coast-clinical-remote) | United States of America |  | Oct 14 |  |
 | **Tempus AI** | [Junior Clinical Trials Data Specialist](https://trylitos.com/job/fe3b5b4f-f787-4196-acff-89e23b14a0bc?utm_source=github&utm_campaign=west-coast-clinical-remote) | Remote - Illinois |  | Oct 13 | Employer has approved H-1B petitions (USCIS); posting does not say |
@@ -13,16 +28,11 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **ICON plc** | [CRA](https://trylitos.com/job/2b79c443-b476-4628-80d1-64eb87c7381a?utm_source=github&utm_campaign=west-coast-clinical-remote) | Dallas, TX; Philadelphia, PA; Boston, MA; Por |  | Oct 9 |  |
 | **Premier Research** | [Clinical Operations Instructional Designer/Trainer Analyst II](https://trylitos.com/job/00b26d46-47c3-45e3-a2f7-ea2d0a4ea90e?utm_source=github&utm_campaign=west-coast-clinical-remote) | United States of America |  | Oct 7 |  |
 | **ICON plc** | [Clinical Research Associate - SOAR](https://trylitos.com/job/a373d085-b285-4c88-be82-c2ef108aecf4?utm_source=github&utm_campaign=west-coast-clinical-remote) | Nashville, TN; Tennessee; Kentucky |  | Oct 5 |  |
-| **Pace Analytical** | [Chemical Regulatory Coordinator (Remote)](https://trylitos.com/job/ab18089b-ac12-4fc2-9298-16b1eebd263a?utm_source=github&utm_campaign=west-coast-clinical-remote) | Maplewood, MN |  | Oct 1 |  |
 | **ICON plc** | [Clinical Trial Liaison](https://trylitos.com/job/84a924e3-e2f5-484a-ac5d-9aa8f06762a4?utm_source=github&utm_campaign=west-coast-clinical-remote) | Orlando, FL; Texas; US, Raleigh, NC; Indiana; |  | Oct 1 |  |
 | **Washington University in St. Louis** | [Clinical Research Financial Coordinator I (Remote) - Otolaryngology](https://trylitos.com/job/6ab81a37-04d9-4aa8-9571-e032d600e117?utm_source=github&utm_campaign=west-coast-clinical-remote) | Washington University Medical Campus |  | Sep 30 |  |
-| **Huron** | [Research Admin Specialist II-Clinical Trial Budgets](https://trylitos.com/job/5f414e93-4d66-49c3-b315-999151eef9d7?utm_source=github&utm_campaign=west-coast-clinical-remote) | Chicago - 550 Van Buren |  | Sep 24 |  |
-| **ICON plc** | [Clinical Research Associate Cross Therapeutic](https://trylitos.com/job/7f83019a-1d99-4cbf-a8bc-d714a4a6dea4?utm_source=github&utm_campaign=west-coast-clinical-remote) | Chicago, IL; Illinois |  | Sep 21 |  |
 | **Worldwide Clinical Trials** | [In-house Clinical Research Associate II - Oncology](https://trylitos.com/job/239627f9-f6d4-406d-865b-0057a449803d?utm_source=github&utm_campaign=west-coast-clinical-remote) | Virtual United States North Carolina |  | Sep 16 |  |
-| **Syneos Health** | [CRA - Healthy Volunteer Phase I (ClinPharm) (Home-Based - Salt Lake City)](https://trylitos.com/job/10123f05-4b57-4e14-980f-1e429dbd8602?utm_source=github&utm_campaign=west-coast-clinical-remote) | USA-UT-Remote; USA-CA-Remote |  | Sep 9 |  |
 | **Neogen** | [International Trade Regulatory Specialist](https://trylitos.com/job/c304b7b1-b9c8-4578-a52f-c3257988dfa7?utm_source=github&utm_campaign=west-coast-clinical-remote) | Remote |  | Sep 3 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **ULSE** | [Research Coordinator - Institute for Research Experiences & Education](https://trylitos.com/job/560cf203-a49a-40eb-94cb-8d2cd6edaf46?utm_source=github&utm_campaign=west-coast-clinical-remote) | Remote |  | Aug 19 | Employer has certified LCAs (DOL); posting does not say |
-| **Syneos Health** | [CRA II - Sponsor Dedicated - West Coast.](https://trylitos.com/job/25a516de-9b65-47d7-ab4e-00d5d83e61bc?utm_source=github&utm_campaign=west-coast-clinical-remote) | USA-OR-Remote; USA-CO-Remote |  | Aug 18 |  |
 | **Syneos Health** | [CRA II - Oncology / Ophthalmology (Home-Based - Midwestern Region)](https://trylitos.com/job/2cf4884f-a3a4-465d-9469-452240e61068?utm_source=github&utm_campaign=west-coast-clinical-remote) | USA-IL-Remote; USA-NE-Remote; USA-WI-Remote; |  | Aug 6 |  |
 | **Premier Research** | [CRA II, Onc/Neuro/Rare/Derm (West Coast, Midwest, Northeast)](https://trylitos.com/job/693341f6-0902-457e-83da-5e6c1622d042?utm_source=github&utm_campaign=west-coast-clinical-remote) | United States of America |  | Jul 16 |  |
 | **MANSCAPED** | [Regulatory Affairs Specialist](https://trylitos.com/job/92ee3375-ed48-4b51-8284-f592cb0f4625?utm_source=github&utm_campaign=west-coast-clinical-remote) | United States - Remote | USD 80,000 to 90,000 per year | Oct 13 |  |

@@ -1,6 +1,6 @@
 # 1 seattle area roles
 
-**1 roles at 1 companies.** Checked 15 Oct 2026. Seattle, Bothell, Redmond, Bellevue and Kirkland.
+**1 roles at 1 companies.** Checked 20 Oct 2026. Seattle, Bothell, Redmond, Bellevue and Kirkland.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
